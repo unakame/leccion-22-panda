@@ -1,0 +1,48 @@
+body{
+  background-color: #1D1A05;
+  padding-bottom: 0px;
+}
+
+ul{
+  background-color: #CA3C25;
+
+}
+li{
+
+  font-size: arial;
+  display: inline-block;
+  padding: 17px;
+  list-style: none;
+
+}
+#inicio{
+  margin-left: 150px;
+}
+a{
+  font-family: arial;
+  color: whitesmoke;
+  font-size: 12px;
+}
+
+button{
+      font-size:15px;
+      color:white;
+      background:#CA3C25;
+      border:0px;
+      width:230px;
+      height:25px;
+}
+#botones{
+  text-align: justify;
+}
+span{
+  color: white;
+}
+img{
+  width: 100px;
+  height: 100px;
+  filter: grayscale();
+}
+#texto{
+  display: block;
+}
