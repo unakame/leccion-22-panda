@@ -39,7 +39,7 @@ button{
 
   margin-left: 245px
 }
-span{
+p{
   color:#F7C588;
 }
 img{
@@ -50,6 +50,7 @@ img{
   margin: 20px 5px 30px 20px;
 }
 #texto1{
+  margin-top: 50px;
   margin-left: 230px;
 }
 
@@ -59,4 +60,17 @@ img{
 
 #img-1{
   margin-left: 250px;
+}
+#texto1{
+  margin-left: 150px;
+  margin-right: 700px;
+}
+
+#texto2{
+  margin-right: 150px;
+  margin-left: 700px;
+}
+div{
+  display: inline-block;
+  -webkit-box-sizing: border-box
 }
